@@ -1,0 +1,13 @@
+.miGranBloque {
+    height: 900px;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tituloPrincipal {
+    font-weight: 900;
+    font-size: 24px;
+    text-decoration: underline;
+}
